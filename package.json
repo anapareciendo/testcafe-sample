@@ -1,0 +1,22 @@
+{
+  "name": "testcafe-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anapareciendo/testcafe-sample.git"
+  },
+  "author": "Ana Aparicio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anapareciendo/testcafe-sample/issues"
+  },
+  "homepage": "https://github.com/anapareciendo/testcafe-sample#readme",
+  "devDependencies": {
+    "testcafe": "^1.20.0"
+  }
+}
