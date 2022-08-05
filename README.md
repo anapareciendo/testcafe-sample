@@ -2,4 +2,6 @@
 
 # run testcafe
 
-`npx testcafe chrome tests/`
+```
+npx testcafe chrome tests/
+```
