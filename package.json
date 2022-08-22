@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/anapareciendo/testcafe-sample#readme",
   "devDependencies": {
-    "testcafe": "^1.20.0"
+    "testcafe": "^1.20.1"
   }
 }
